@@ -76,7 +76,7 @@ Internal validity refers to whether claims about causal relationships among vari
 * Having lots of participants who drop out after the manipulation (messes up random assignment)
 * Incorrect use and/or interpretation of mediation analyses
 
-#### In the context of correlational/observational designs
+#### In the context of correlational/observational designs:
 * Ignoring possible third variables (e.g., selection effects, confounds) 
 * Ignoring possible reverse causality
 * Making unwarranted assumptions to rule out alternative explanations 
