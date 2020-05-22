@@ -43,7 +43,7 @@ To evaluate statistical validity, consider whether the authors conducted a stron
     * *p*-values between .01 and .05, especially across multiple studies (when the effect is real, unbiased statistical tests would produce a heavily-skewed distribution of *p*-values, with most *p*-values below .01)
     * Conducting many statistical tests (e.g., testing three separate DVs) but failing to correct for family wise error rates / multiple comparisons
     * Conducting many statistical tests (e.g., testing three separate DVs) but failing to correct for family wise error rates / multiple comparisons
-    * Optional stopping – not clear what the data collection stopping rule was.  (Inconsistent or strange sample sizes could be a clue.)
+    * Optional stopping – not clear what the data collection stopping rule was.  (Inconsistent or strange sample sizes could be a clue.). 
 * HARKing (Hypothesizing After the Results are Known)
     *  When there is no significant effect overall, changing the focus to a subgroup where the effect is significant (e.g., “it works for women”)
     * Changes across studies in direction of the effect, or in the specific pattern observed, still interpreted as consistent with theory despite a lack of theoretical justification
@@ -93,7 +93,7 @@ External validity refers to the validity of generalizations made from the data. 
 
 ### Common potential threats to external validity:
 * Claiming that an effect generalizes to a population of participants, measures/manipulations, or settings not sampled in the study, particularly if there is reason to doubt the plausibility of this claim
-    * Note that it can even be risky to claim that the effect applies to a specific subset of participants, measures/manipulations, or settings that were sampled, if the authors did not directly test whether the effect holds in that specific subset of the data (e.g., making claims about an effect being true for older adults when the sample and analyses include both younger and older adults and no the authors did not test if the effect holds across age groups).
+    * Note that it can even be risky to claim that the effect applies to a specific subset of participants, measures/manipulations, or settings that were sampled, if the authors did not directly test whether the effect holds in that specific subset of the data (e.g., making claims about an effect being true for older adults when the sample and analyses include both younger and older adults and no the authors did not test if the effect holds across age groups).  
 * Examining only a narrow slice of the construct of interest (e.g, using a single or just a couple stimuli or vignettes).
 * Contrived lab setting or lack of realism (e.g., using a hypothetical scenario instead of a real situation; or reducing a complex experience like trauma to a trivial manipulation like getting a crappy prize).
 * Recruiting participants from an inappropriate population (e.g., sampling only college students when studying a phenomenon like workplace misconduct that is likely to vary a lot by age/experience).
