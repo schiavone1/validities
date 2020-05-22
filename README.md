@@ -12,6 +12,7 @@ Construct validity refers to whether the study actually measured and/or manipula
     * Measures/manipulates something other than (or in addition to) the construct of interest
     * Measures/manipulates only a narrow part of the construct of interest
 * Poor method match – e.g., using a self-report to measure a behavior, or using physiology to measure a subjective feeling, etc. 
+
 #### Quality
 #####  Measures
 * Measures are not validated (most ad hoc measures are not validated – reporting reliability is not enough)
@@ -98,5 +99,5 @@ External validity refers to the validity of generalizations made from the data. 
 * Making claims based on data from a convenience sample that would require a representative sample (e.g., claims about frequency or absolute levels of a single variable (e.g., “80% of women have experienced discrimination”) require a representative sample)
 
 
-### Acknowledgements: 
+#### Acknowledgements: 
 This document is inspired by Shadish, Cook, & Campbell (2002) Experimental and Quasi-Experimental Designs for Generalized Causal Inference, and Morling (2017) Research Methods in Psychology.  I am grateful to our research group at UC Davis, Daniël Lakens, Fiona Fidler, and Eden Smith, for feedback.  All errors and stupidities are ours.  
