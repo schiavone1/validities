@@ -7,11 +7,11 @@ Construct validity refers to whether the study actually measured and/or manipula
 
 ### Common potential threats to construct validity:
 #### Match
-* Poorly defined construct(s) 
-* Poor face validity (i.e., it does not appear to measure what it claims to measure)
-    * Measures/manipulates something other than (or in addition to) the construct of interest
-    * Measures/manipulates only a narrow part of the construct of interest
-* Poor method match – e.g., using a self-report to measure a behavior, or using physiology to measure a subjective feeling, etc. 
+* Poorly defined construct(s)   
+* Poor face validity (i.e., it does not appear to measure what it claims to measure). 
+    * Measures/manipulates something other than (or in addition to) the construct of interest.  
+    * Measures/manipulates only a narrow part of the construct of interest.  
+* Poor method match – e.g., using a self-report to measure a behavior, or using physiology to measure a subjective feeling, etc.   
 
 #### Quality
 #####  *Measures*
