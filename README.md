@@ -14,7 +14,7 @@ Construct validity refers to whether the study actually measured and/or manipula
 * Poor method match – e.g., using a self-report to measure a behavior, or using physiology to measure a subjective feeling, etc. 
 
 #### Quality
-#####  Measures
+#####  *Measures*
 * Measures are not validated (most ad hoc measures are not validated – reporting reliability is not enough)
 * Scoring of the measure (into one overall score or multiple subscale scores) ignores theoretical or empirical considerations about factor structure of the concept or measure
 * Biased or confusing language in questionnaire items
@@ -22,7 +22,8 @@ Construct validity refers to whether the study actually measured and/or manipula
 * Single vignette/stimulus
 * Method-specific variance (e.g., variance due to using only self-reports) contaminating the measurement of the construct – this is very common and often not considered a big threat, but often there is reason to worry about bias introduced by the method.
 * The way the measure is administered (e.g., lack of privacy) could introduce bias 
-#####  Manipulations
+
+#####  *Manipulations*
 * Manipulation is not validated (a manipulation check can provide some evidence of validity but is often impractical or impossible; ideal is independent validation in separate studies)
 * Manipulation is too subtle, not likely to actually induce the intended state
 * Manipulation is confounded, likely manipulating something else or something broader than the intended state (e.g., “remember a time when” manipulations are often at high risk for confounds because memories that vary on the manipulated characteristic (e.g., status/power) likely also vary systematically on other characteristics (e.g., age at the time of remembered event)).
