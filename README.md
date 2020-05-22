@@ -101,4 +101,4 @@ External validity refers to the validity of generalizations made from the data. 
 
 
 #### Acknowledgements: 
-This document is inspired by Shadish, Cook, & Campbell (2002) Experimental and Quasi-Experimental Designs for Generalized Causal Inference, and Morling (2017) Research Methods in Psychology.  I am grateful to our research group at UC Davis, Daniël Lakens, Fiona Fidler, and Eden Smith, for feedback.  All errors and stupidities are ours.  
+This document is inspired by Shadish, Cook, & Campbell (2002) Experimental and Quasi-Experimental Designs for Generalized Causal Inference, and Morling (2017) Research Methods in Psychology. We are grateful to our research group at UC Davis, Daniël Lakens, Fiona Fidler, and Eden Smith, for feedback.  All errors and stupidities are ours.  
