@@ -96,3 +96,7 @@ External validity refers to the validity of generalizations made from the data. 
 * Contrived lab setting or lack of realism (e.g., using a hypothetical scenario instead of a real situation; or reducing a complex experience like trauma to a trivial manipulation like getting a crappy prize).
 * Recruiting participants from an inappropriate population (e.g., sampling only college students when studying a phenomenon like workplace misconduct that is likely to vary a lot by age/experience).
 * Making claims based on data from a convenience sample that would require a representative sample (e.g., claims about frequency or absolute levels of a single variable (e.g., “80% of women have experienced discrimination”) require a representative sample)
+
+
+### Acknowledgements: 
+This document is inspired by Shadish, Cook, & Campbell (2002) Experimental and Quasi-Experimental Designs for Generalized Causal Inference, and Morling (2017) Research Methods in Psychology.  I am grateful to our research group at UC Davis, Daniël Lakens, Fiona Fidler, and Eden Smith, for feedback.  All errors and stupidities are ours.  
