@@ -14,7 +14,6 @@ Construct validity refers to whether the study actually measured and/or manipula
 * Poor method match – e.g., using a self-report to measure a behavior, or using physiology to measure a subjective feeling, etc. 
 #### Quality
 #####  Measures
-Measures
 * Measures are not validated (most ad hoc measures are not validated – reporting reliability is not enough)
 * Scoring of the measure (into one overall score or multiple subscale scores) ignores theoretical or empirical considerations about factor structure of the concept or measure
 * Biased or confusing language in questionnaire items
