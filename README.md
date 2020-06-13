@@ -3,68 +3,66 @@
 Simine Vazire & Sarah Schiavone 
 
 ## Construct Validity
-Construct validity refers to whether the study actually measured and/or manipulated the constructs that the authors wished to study. Construct validity includes the conceptual MATCH between the construct(s) and the operationalization(s) made, and also the QUALITY of the measure/manipulation. If the match is poor, construct validity is poor regardless of the quality of the measures.  
+Construct validity refers to whether the study actually measured and/or manipulated the constructs that the authors wished to study. Construct validity includes the conceptual **_match_** between the construct(s) and the operationalization(s) made, and the **_quality_** of the measure(s)/manipulation(s). If the match is poor, construct validity is poor regardless of the quality of the measures.  
 
 ### Common potential threats to construct validity:
 #### Match
-* Poorly defined construct(s)   
-* Poor face validity (i.e., it does not appear to measure what it claims to measure). 
-    * Measures/manipulates something other than (or in addition to) the construct of interest.  
-    * Measures/manipulates only a narrow part of the construct of interest.  
-* Poor method match – e.g., using a self-report to measure a behavior, or using physiology to measure a subjective feeling, etc.   
+* **C1.** Poorly defined constructs (e.g., inconsistent and/or unclear operationalization, conceptually fuzzy). 
+* **C2.** Poor face validity (i.e., it does not appear to measure what it claims to measure).
+   * Measures/manipulates something other than&mdash;or in addition to&mdash;the construct of interest.
+   * Measures/manipulates only a narrow part of the construct of interest.
+* **C3.** Poor method match (e.g., self-reports used to measure behavior, physiological methods used to measure subjective feelings). 
 
 #### Quality
 #####  *Measures*
-* Measures are not validated (most ad hoc measures are not validated – reporting reliability is not enough)
-* Scoring of the measure (into one overall score or multiple subscale scores) ignores theoretical or empirical considerations about factor structure of the concept or measure
-* Biased or confusing language in questionnaire items
-* One-shot behavioral measures (usually a dependent variable like donating your participant payment to charity or administering hot sauce to another participant)
-* Single vignette/stimulus
-* Method-specific variance (e.g., variance due to using only self-reports) contaminating the measurement of the construct – this is very common and often not considered a big threat, but often there is reason to worry about bias introduced by the method.
-* The way the measure is administered (e.g., lack of privacy) could introduce bias 
+* **C4.** Measures are not validated. Most ad hoc measures are not validated&mdash;reporting reliability is not enough.
+* **C5.** Measures are scored in ways that ignore theoretical or empirical considerations about the factor structure of the construct(s).
+* **C6.** Measures include biased and/or confusing language.
+* **C7.** Relying on a single vignette/stimulus.
+* **C8.** Relying on one-shot behavioral measures (usually a dependent variable like donating your participant payment to charity or administering hot sauce to another participant).
+* **C9.** Measures are contaminated by method-specific variance (e.g., variance due to using only self-reports)&mdash;this is very common and usually not considered a serious threat, but often there is reason to worry about bias introduced by the method.
+* **C10.** Measures administered in ways that could introduce bias (e.g., lack of privacy).
 
 #####  *Manipulations*
-* Manipulation is not validated (a manipulation check can provide some evidence of validity but is often impractical or impossible; ideal is independent validation in separate studies)
-* Manipulation is too subtle, not likely to actually induce the intended state
-* Manipulation is confounded, likely manipulating something else or something broader than the intended state (e.g., “remember a time when” manipulations are often at high risk for confounds because memories that vary on the manipulated characteristic (e.g., status/power) likely also vary systematically on other characteristics (e.g., age at the time of remembered event)).
-
+* **C11.** Manipulations are not validated (manipulation checks may provide some evidence of validity but are often impractical or impossible; ideally, independent validation occurs in separate studies).
+* **C12.** Manipulations are too subtle, unlikely to actually induce the intended state.
+* **C13.** Manipulations are confounded, likely manipulating something else or something broader than the intended state (e.g., “remember a time when” manipulations are often at high risk for confounds because memories that vary on the manipulated characteristic (e.g., status/power) likely also vary systematically on other characteristics (e.g., age at the time of remembered event)).
 
 ## Statistical Validity (or Statistical Conclusion Validity)
 
-Statistical validity refers to the validity of statistical inferences, putting aside any concerns about measurement, conceptual rigor, etc. Inferential statistics require certain assumptions to be met. For example, frequentist statistics (e.g., *p*-values, confidence intervals) aim to control error rates and are only valid when decisions about data collection and analysis are made a priori, and are not data-dependent. Thus, flexibility in how data are collected or analyzed can pose a serious threat to the validity of many statistical inferences. It is not always obvious whether such flexibility was present (except when the authors share a pre-registered plan). However, there are often signs of flexibility.  
-
-There are many other kinds of statistical errors or problems, too.  
+Statistical validity refers to the validity of statistical inferences, putting aside any concerns about measurement, conceptual rigor, etc. Inferential statistics require certain assumptions to be met. For example, frequentist statistics (e.g., p-values, confidence intervals) aim to control error rates and are only valid when decisions about data collection and analysis are made a priori, and are not data-dependent. Thus, flexibility in how data are collected and analyzed can pose a serious threat to the validity of many statistical inferences. It is not always obvious whether such flexibility was present (except when the authors share a pre-registered plan). However, there are often signs of flexibility. There are many other kinds of statistical errors or problems, too.  
 
 To evaluate statistical validity, consider whether the authors conducted a strong and appropriate statistical test of their research question, and interpreted the results of the statistical test correctly.
 
 ### Common potential threats to statistical validity:
-* *p*-hacking, which can take many forms. Some potential clues include but are not limited to:
-    * Flexible analysis decisions (e.g., removing outliers or otherwise excluding some participants or observations, adding covariates, dropping items from measures, transforming variables, etc.), particularly when alternative decisions would also have been reasonable
-    * *p*-values between .01 and .05, especially across multiple studies (when the effect is real, unbiased statistical tests would produce a heavily-skewed distribution of *p*-values, with most *p*-values below .01)
-    * Conducting many statistical tests (e.g., testing three separate DVs) but failing to correct for family wise error rates / multiple comparisons
-    * Conducting many statistical tests (e.g., testing three separate DVs) but failing to correct for family wise error rates / multiple comparisons
-    * Optional stopping – not clear what the data collection stopping rule was.  (Inconsistent or strange sample sizes could be a clue.). 
-* HARKing (Hypothesizing After the Results are Known)
-    *  When there is no significant effect overall, changing the focus to a subgroup where the effect is significant (e.g., “it works for women”)
-    * Changes across studies in direction of the effect, or in the specific pattern observed, still interpreted as consistent with theory despite a lack of theoretical justification
-* Low statistical power or precision (small sample size/number of observations)
-* Interpreting a result as evidence of “no difference” or “no effect” based just on a non-significant p-value (without actually testing for evidence of absence, e.g., using equivalence testing or Bayesian stats). This often happens for non-central hypothesis tests, like ruling out potential confounds or alternative explanations.
-* Not actually testing the effect of interest (e.g., reporting that two effects are different from each other because one is statistically significant and the other isn’t, rather than testing the interaction directly)
-* Floor or ceiling effects, or other restriction of range problems 
-* Outliers driving the effect or exaggerating the size of the effect
-* Using the wrong statistical technique (e.g., doing a median split on a continuous variable) 
-* Failing to meet important assumptions of statistical tests (e.g., ignoring interdependence or clustering in data, e.g., analyzing groups or couples as individuals)
-* Threats to measurement invariance – if there is a reason to worry that the same measure could have different meaning in different groups or at different times
-* Complicated effects like moderated mediation, causal models with many links/paths, or higher order interactions (even a 2-way interaction can be reason for skepticism, but especially 3-way or higher) without cross-validation or direct replication - these are susceptible to overfitting or spurious effects
-* A significant interaction but the effect is driven by a pattern different from what the theory predicts (e.g., if the theory would say that cell A1 should be lower than cells A2, B1, and B2, but the pattern of results does not look like that)
-* Claiming implausibly large effect sizes, or otherwise too-perfect data (e.g., means are perfectly equally spaced apart, distributions barely overlap, etc.)
-* Claiming evidence for an effect with a *p*-value larger than .05, or being inconsistent in the application of the *p*-value threshold (i.e., playing fast and loose with alpha) 
-* Controlling for variables that were measured with error, without using latent variables or otherwise taking the error into account
-
+* **S1.** *p*-hacking, which can take many forms. Some potential clues include but are not limited to:
+   *	Flexible analysis decisions (e.g., removing outliers or otherwise excluding some participants or observations, adding covariates, dropping items from measures, transforming variables), particularly when alternative decisions would also have been reasonable.
+   *	*p*-values between .01 and .05—especially across multiple studies. When the effect is real, unbiased statistical tests should produce heavily-skewed distributions of *p*-values, with most *p*-values below .01.
+   *  Conducting many statistical tests (e.g., testing three separate DVs) but failing to correct for family-wise error rates / multiple comparisons.
+   *	Optional stopping—unclear stopping rules for data collection. Inconsistent or strange sample sizes could be a clue.
+* **S2.** HARKing (Hypothesizing After the Results are Known):
+   *	When there is no significant effect overall, changing the focus to a subgroup where the effect is significant (e.g., “it works for women”).
+   *	Changes in the direction of the effect across studies, or in the specific pattern observed, that are still interpreted as consistent with theory despite a lack of theoretical justification.
+* **S3.** Low statistical power or precision (small sample size/number of observations).
+* **S4.** Interpreting a result as evidence of “no difference” or “no effect” based just on a non-significant *p*-value without actually testing for evidence of absence (e.g., using equivalence testing or Bayesian stats). This often happens for non-central hypothesis tests, like ruling out potential confounds or alternative explanations.
+* **S5.** Not actually testing the effect of interest (e.g., reporting that two effects are different from each other because one is statistically significant and the other is not, rather than testing the interaction directly).
+* **S6.** Floor or ceiling effects, or other restriction of range problems. 
+* **S7.** Effect sizes driven—or exaggerated—by outliers. 
+* **S8.** Using wrong or inappropriate statistical techniques (e.g., doing a median split on a continuous variable). 
+* **S9.** Violating important assumptions of statistical tests (e.g., ignoring interdependence or clustering in data, e.g., analyzing groups or couples as individuals).
+* **S10.** Threats to measurement invariance—if there is a reason to worry that the same measure could have different meaning in different groups or at different times.
+* **S11.** Complicated effects reported without cross-validation or direct replication that are susceptible to overfitting or spurious effects:
+   *	Moderated mediation. 
+   *	Causal models with many links/paths.
+   *	Higher order interactions—even a two-way interaction can be reason for skepticism, but especially three-way or higher.
+* **S12.** Reporting significant interactions with effects that are driven by patterns other than the theory would predict (e.g., if the theory would say that cell A1 should be lower than cells A2, B1, and B2, but the pattern of results does not look like that).
+* **S13.** Claiming implausibly large effect sizes, or otherwise too-perfect data (e.g., means are perfectly equally spaced apart, barely overlapping distributions).
+* **S14.** Claiming evidence for an effect with a *p*-value larger than .05, or inconsistent application or interpretation of the *p*-value thresholds (i.e., playing fast and loose with alpha). 
+* **S15.** Controlling for variables that were measured with error, without using latent variables or otherwise taking the error into account.
 
 ## Internal Validity
 
-Internal validity refers to whether claims about causal relationships among variables are warranted by the evidence. To assess internal validity, compare the authors’ claims about causal relationships (if any) with what the design of the study could reasonably allow with respect to causal claims. Sometimes claims about causality are implied rather than stated explicitly.
+Internal validity refers to whether claims about the causal relationships among variables are warranted by the evidence. To assess internal validity, compare the authors’ claims about causal relationships (if any) with what the study design could reasonably allow with respect to causal claims. Sometimes claims about causality are implied rather than stated explicitly.
 
 ### Common potential threats to internal validity:
 
