@@ -30,7 +30,7 @@ Construct validity refers to whether the study actually measured and/or manipula
 
 ## Statistical Validity (or Statistical Conclusion Validity)
 
-Statistical validity refers to the validity of statistical inferences, putting aside any concerns about measurement, conceptual rigor, etc. Inferential statistics require certain assumptions to be met. For example, frequentist statistics (e.g., p-values, confidence intervals) aim to control error rates and are only valid when decisions about data collection and analysis are made a priori, and are not data-dependent. Thus, flexibility in how data are collected and analyzed can pose a serious threat to the validity of many statistical inferences. It is not always obvious whether such flexibility was present (except when the authors share a pre-registered plan). However, there are often signs of flexibility. There are many other kinds of statistical errors or problems, too.  
+Statistical validity refers to the validity of statistical inferences, putting aside any concerns about measurement, conceptual rigor, etc. Inferential statistics require certain assumptions to be met. For example, frequentist statistics (e.g., *p*-values, confidence intervals) aim to control error rates and are only valid when decisions about data collection and analysis are made a priori, and are not data-dependent. Thus, flexibility in how data are collected and analyzed can pose a serious threat to the validity of many statistical inferences. It is not always obvious whether such flexibility was present (except when the authors share a pre-registered plan). However, there are often signs of flexibility. There are many other kinds of statistical errors or problems, too.  
 
 To evaluate statistical validity, consider whether the authors conducted a strong and appropriate statistical test of their research question, and interpreted the results of the statistical test correctly.
 
@@ -62,40 +62,40 @@ To evaluate statistical validity, consider whether the authors conducted a stron
 
 ## Internal Validity
 
-Internal validity refers to whether claims about the causal relationships among variables are warranted by the evidence. To assess internal validity, compare the authors’ claims about causal relationships (if any) with what the study design could reasonably allow with respect to causal claims. Sometimes claims about causality are implied rather than stated explicitly.
+Internal validity refers to whether claims about the causal relationships among variables are warranted by the evidence. To assess internal validity, compare the authors’ claims about causal relationships (if any) with what the study design could reasonably allow with respect to causal claims. Sometimes claims about causality are implied rather than stated explicitly.
 
 ### Common potential threats to internal validity:
 
 #### In the context of experimental designs:
-* Confounds that are part of the manipulation - the manipulation likely affected other variables besides the independent variable (this is also a threat to the construct validity of the manipulation)
-* Confounds outside of the manipulation - other things were different between conditions besides the manipulation 
-* Poor/weak manipulation - manipulation is too subtle or likely doesn’t have much effect on the independent variable 
-* No true control condition, or the control condition was not similar enough to the experimental condition (did not have exactly the same experience as the experimental condition, besides the manipulated variable)
-* Demand effects - participants are responding to what they think they are supposed to say/do or what they think the experimenter wants them to say/do (may be especially likely in within-subjects designs, but can also happen in between-subjects designs)
-* Non-random assignment to conditions 
-* Having lots of participants who drop out after the manipulation (messes up random assignment)
-* Incorrect use and/or interpretation of mediation analyses
+* **I1.** Confounds that are part of the manipulation—the manipulation likely affected other variables. besides the independent variable (this is also a threat to the construct validity of the manipulation).
+* **I2.** Confounds outside of the manipulation—conditions differ in ways besides the manipulation. 
+* **I3.** Poor/weak manipulations—too subtle or unlikely to be manipulating the construct of interest. 
+* **I4.** No true control condition, or the control condition was not similar enough to the experimental condition (did not have exactly the same experience as the experimental condition, besides the manipulated variable).
+* **I5.** Demand effects—participants responding to what they think they are supposed to say/do or what they think the experimenter wants them to say/do. This may be especially likely in within-subjects designs, but can also happen in between-subjects designs.
+* **I6.** Non-random assignment to conditions. 
+* **I7.** Having many participants drop out after the manipulation (messes up random assignment).
+* **I8.** Incorrect use and/or interpretation of mediation analyses.
 
 #### In the context of correlational/observational designs:
-* Ignoring possible third variables (e.g., selection effects, confounds) 
-* Ignoring possible reverse causality
-* Making unwarranted assumptions to rule out alternative explanations 
-* Controlling for things that shouldn’t be controlled for (e.g., a potential mediator or collider) or throwing in a bunch of controls that seem haphazard
-* Controlling for variables that were measured with error, without using latent variables or otherwise taking the error into account
-* Regression to the mean (if participants were selected based on extreme scores)
-* Incorrect use and/or interpretation of mediation analyses
+* **I9.** Ignoring possible third variables (e.g., selection effects, confounds). 
+* **I10.** Ignoring possible reverse causality.
+* **I11.** Making unwarranted assumptions to rule out alternative explanations. 
+* **I12.** Controlling for things that should not be controlled for (e.g., a potential mediator or collider) or throwing in a bunch of controls that seem haphazard.
+* **I13.** Controlling for variables that were measured with error, without using latent variables or otherwise taking the error into account.
+* **I14.** Regression to the mean (if participants were selected based on extreme scores)
+* **I15.** Incorrect use and/or interpretation of mediation analyses.
 
 ## External Validity
 
-External validity refers to the validity of generalizations made from the data. This includes generalizations made to other people, other times, other settings (e.g., lab to real world), other stimuli, other measures or manipulations, and other ways of testing the same research question (including everything from other experimenters to other recruitment strategies and more). Few studies can fully justify these kinds of generalizations, but many do make such claims, implicitly or explicitly.  How much did the authors state or imply that their results would generalize beyond factors that they actually tested?  
+External validity refers to the validity of generalizations made from the data. This includes generalizations made to other people, other times, other settings (e.g., lab to real world), other stimuli, other measures or manipulations, and other ways of testing the same research question (including everything from other experimenters to other recruitment strategies and more). Few studies can fully justify these kinds of generalizations, yet many such claims are made—whether implicitly or explicitly.  
 
 ### Common potential threats to external validity:
-* Claiming that an effect generalizes to a population of participants, measures/manipulations, or settings not sampled in the study, particularly if there is reason to doubt the plausibility of this claim
-    * Note that it can even be risky to claim that the effect applies to a specific subset of participants, measures/manipulations, or settings that were sampled, if the authors did not directly test whether the effect holds in that specific subset of the data (e.g., making claims about an effect being true for older adults when the sample and analyses include both younger and older adults and no the authors did not test if the effect holds across age groups).  
-* Examining only a narrow slice of the construct of interest (e.g, using a single or just a couple stimuli or vignettes).
-* Contrived lab setting or lack of realism (e.g., using a hypothetical scenario instead of a real situation; or reducing a complex experience like trauma to a trivial manipulation like getting a crappy prize).
-* Recruiting participants from an inappropriate population (e.g., sampling only college students when studying a phenomenon like workplace misconduct that is likely to vary a lot by age/experience).
-* Making claims based on data from a convenience sample that would require a representative sample (e.g., claims about frequency or absolute levels of a single variable (e.g., “80% of women have experienced discrimination”) require a representative sample)
+* **E1.** Claiming effects generalize to a population of participants, measures/manipulations, or settings not sampled in the study—particularly when there is reason to doubt the plausibility of the claim.
+  *	It can even be risky to claim that the effect applies to a specific subset of participants, measures/manipulations, or settings that were sampled, if the authors did not directly test whether the effect holds in that specific subset of the data (e.g., making claims about an effect being true for older adults when the sample and analyses include both younger and older adults and the authors did not test if the effect holds across age groups).
+* **E2.** Examining only a narrow slice of the construct of interest (e.g., using a single or just a couple stimuli or vignettes).
+* **E3.** Contrived lab setting or lack of realism (e.g., using a hypothetical scenario instead of a real situation, reducing a complex experience like trauma to a trivial manipulation like getting a crappy prize).
+* **E4.** Recruiting participants from inappropriate populations (e.g., sampling only college students when studying a phenomenon like workplace misconduct that is likely to vary widely by age/experience).
+* **E5.** Making claims based on data from a convenience sample that would require a representative sample (e.g., claims about frequency or absolute levels of a single variable such as “80% of women have experienced discrimination”).
 
 
 #### Acknowledgements: 
